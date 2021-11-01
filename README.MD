@@ -31,7 +31,7 @@ We have once again joined the matches_info and player_info tables on player_id t
 ### Visualization:
 Age has a major impact on the 30 day retention rate. We have created a column chart to find out that the players close to 20 years of age have the highest player count but the lowest retention rate. Marketing advice would be to investigate further on how to increase the retention rate for the players around the age of 20. The Game Company should also look into optimizing the features and difficulty level of the game in order to retain more of the players that are around the age group of (17-23) Looking at the data there is a huge market potential for the players in their early teens as about 100% of the players that have joined the game are being retained. Also, the game company should focus their efforts towards increasing the number of players in their early thirties to join because these players have more spending power and higher retention rate.
 
-![Age vs. Retention Count ](Visualizations/Age_vs.Player%20Retention%20(Count)%20(1).png)
+![Age vs. Retention Count ](Visualizations/Age_vs._Player%20Retention%20(Count)%20(1).png)
 
 ![Age vs. Retention Rate ](Visualizations/Age_vs._Retention_Rate.png)
 
@@ -55,11 +55,11 @@ When we compared the average win percentage for the retained players vs. non ret
 
 (1) A clustered column chart comparing total retained players and total not retained players by win percent bucket, showing that the most retained players (by count) had win percentages between 50-59.99%.
 
-![Win Average % (bucketed) vs. Player Count ](Visualizations/Win_Average%20 %_(bucketed)_vs._Player_Count.png)
+![Win Average % (bucketed) vs. Player Count](Visualizations/Win_Average%20 %_(bucketed)_vs._Player_Count.png)
 
 (2) A column chart that shows average player retention rate by group. This visualization was of particular interest, as the first and tenth groups (the lowest and highest win percentages, respectively) had significantly lower retention than the other groups: across all 10, the average retention rate was 71.16% (approx. 2886 players retained of a total 4055 per grouping) -- while the first group showed a rate of 58.58%, and the tenth group showed a rate of 59.31%. This insight could indicate that the two biggest deterrents for retention were being heavily under or overskilled, though it is worth noting that the total number of matches per player hasn’t been factored into this analysis -- we are including any player that played one or more matches. We recommend experimenting with dynamic difficulty adjustment (DDA) to automatically modify the game's features, behaviors, and scenarios in real-time, depending on the player's skill.
 
-![Win Percentile vs. Retained Player Retention Rate.png ](Visualizations/Win_Percentile%20 vs._Retained_Player_Retention_Rate.png)
+![Win Percentile vs. Retained Player Retention Rate](Visualizations/Win_Percentile%20 vs._Retained_Player_Retention_Rate.png)
 
 Link to data and visualizations:
 https://docs.google.com/spreadsheets/d/1tLqhKBL2LvLfDe-YP6LOFE2ouZsBOzfOdfH_KwNvEHI/edit?usp=sharing
