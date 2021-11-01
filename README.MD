@@ -15,13 +15,13 @@ We created two visualizations to analyze our data:
 
 (1) An area chart that shows the count of total players (grey) compared to the retained players (green) over the days they initially joined. In this chart view, there appear to be a few noticeable peaks in the retained player count (e.g. day 55, 277) and a significant drop at day 127. However, these data points are quite dependent on the total player count for the day, and as we can see from the retained player trendline, overall the retention rate was quite consistent throughout the year (average of 71%).
 
-![Player Retention Count vs. Day Joined](Visualizations/Player-Retention-Count-vs.-Day-Joined.png)
+![Player Retention Count vs. Day Joined](Visualizations/Player_Retention_(Count)_vs._Day%20Joined.png)
 
 (2) A 100% stacked area chart that shows the average player retention percentage over days joined. This view clearly depicts the consistency of the retention percentage over time.
 
 Note: As our retention rate criteria is based on knowing if a player played a game 30 days after their join date, we omitted data for players who joined between day 335 and 365, as these players had no opportunity to meet the criteria. We also noted that the players who joined closer to day 335 had less opportunity to meet the retention criteria, which should be considered upon chart review.
 
-![Player Retention Percentage vs. Day Joined](Visualizations/Player-Retention-Percentage-vs.-Day-Joined.png)
+![Player Retention Percentage vs. Day Joined](Visualizations/Player_Retention_(Percentage)_vs._Day_Joined.png)
 
 ## Q2: Does a player’s age affect their rolling 30-day retention rate?
 
