@@ -1,6 +1,16 @@
 
 # Game Company Data Analysis
 
+We've been hired by a mobile gaming company for their one year anniversary, to answer the following questions:
+
+Is 30-day rolling retention increasing or decreasing over the lifecycle of the game?
+Does a player’s age affect their rolling 30-day retention rate?
+For the players who played at least one match, did a player’s rate of winning (win percentage) affect their rolling 30-day retention rate?
+For the purposes of this analysis, we have used BigQuery and Sheet, and the following data tables:
+
+Match information, including the players who matched against each other, and the outcome
+Player information, including information like the player's age and when they joined
+
 ## Q1: Is 30-day rolling retention increasing or decreasing over the lifecycle of the game?
 
 ### Query:
