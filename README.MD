@@ -65,7 +65,7 @@ When we compared the average win percentage for the retained players vs. non ret
 
 (1) A clustered column chart comparing total retained players and total not retained players by win percent bucket, showing that the most retained players (by count) had win percentages between 50-59.99%.
 
-![Win Average % (bucketed) vs. Player Count](`Visualizations/Win_Average%20%_(bucketed)_vs._Player_Count.png`)
+![Win Average % (bucketed) vs. Player Count](Visualizations/Win_Average_Percentage_(bucketed)_vs._Player_Count.png)
 
 (2) A column chart that shows average player retention rate by group. This visualization was of particular interest, as the first and tenth groups (the lowest and highest win percentages, respectively) had significantly lower retention than the other groups: across all 10, the average retention rate was 71.16% (approx. 2886 players retained of a total 4055 per grouping) -- while the first group showed a rate of 58.58%, and the tenth group showed a rate of 59.31%. This insight could indicate that the two biggest deterrents for retention were being heavily under or overskilled, though it is worth noting that the total number of matches per player hasn’t been factored into this analysis -- we are including any player that played one or more matches. We recommend experimenting with dynamic difficulty adjustment (DDA) to automatically modify the game's features, behaviors, and scenarios in real-time, depending on the player's skill.
 
